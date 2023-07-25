@@ -1,0 +1,1 @@
+{"name":"Local: priority_queue","url":"e:\\Data_Structures_Doubly_Linked_List\\Module_23_STL_Queue\\priority_queue.cpp","tests":[{"id":1690214746013,"input":"0 10\n0 20\n0 5\n2\n1\n2\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Structures_Doubly_Linked_List\\Module_23_STL_Queue\\priority_queue.cpp","group":"local","local":true}
