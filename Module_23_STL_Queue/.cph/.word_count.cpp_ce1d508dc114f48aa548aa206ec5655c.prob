@@ -1,0 +1,1 @@
+{"name":"Local: word_count","url":"e:\\Data_Structures_Doubly_Linked_List\\Module_23_STL_Queue\\word_count.cpp","tests":[{"id":1690335177670,"input":"hello world hi bangladesh","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Structures_Doubly_Linked_List\\Module_23_STL_Queue\\word_count.cpp","group":"local","local":true}
